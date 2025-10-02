@@ -1,0 +1,24 @@
+Links:
+https://www.javatpoint.com/linux-commands
+
+https://maker.pro/linux/tutorial/basic-linux-commands-for-beginners
+
+https://git-scm.com/downloads
+
+https://www.freecodecamp.org/news/git-and-github-for-beginners/
+
+https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow#:~:text=Gitflow%20is%20a%20legacy%20Git,software%20development%20and%20DevOps%20practices.
+
+https://www.atlassian.com/git/tutorials/using-branches#:~:text=In%20Git%2C%20branches%20are%20a,branch%20to%20encapsulate%20your%20changes.
+
+
+Task:
+1) Bio adinda bir txt fayl yaradib, icerisine qisa sekilde oz biografiyanizi (mes: Ad soyad, yash,oxuduqun universitet ve ya mekteb, hansi rayondan olmaqin) yazib, githuba elave etmek. 
+2) Sual - cavaba hazirlashmaq.
+
+Qeyd: Git-i komputerinize qurashdirdiqdan sonra "git init" etmemishden qabaq hesabinizi git-e tanitmaq ucun bu komandlari ishe salarsiniz. Sadece bir defe edessiniz. Username ve Email hissesine GitHub hesabinizdaki username ve email yazilacaq.
+
+git config --global user.name "test"
+git config --global user.email test@example.com
+
+DEADLINE: 02.10.25 - 07:00
